@@ -20,7 +20,7 @@ A web application built with Flask, MySQL, and HTML/CSS for collecting, managing
 1. Clone the repository:
 
    ```
-   git clone [[repository-url]](https://github.com/saikowshik2906/Visitor_Feedback_archive.git)
+   git clone https://github.com/saikowshik2906/Visitor_Feedback_archive.git
    cd visitor_feedback_archive
    ```
 
