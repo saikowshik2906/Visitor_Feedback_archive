@@ -20,7 +20,7 @@ A web application built with Flask, MySQL, and HTML/CSS for collecting, managing
 1. Clone the repository:
 
    ```
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/saikowshik2906/Visitor_Feedback_archive.git)
    cd visitor_feedback_archive
    ```
 
@@ -39,7 +39,7 @@ A web application built with Flask, MySQL, and HTML/CSS for collecting, managing
 4. Run the application:
 
    ```
-   python app.py
+   python app_sqlite.py
    ```
 
 5. Access the application:
